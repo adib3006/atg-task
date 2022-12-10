@@ -10,7 +10,7 @@ function App() {
       element:<Home1></Home1>
     },
     {
-      path:'/loggedin',
+      path:'/user',
       element:<Home2></Home2>
     }
   ])
